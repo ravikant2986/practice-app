@@ -16,4 +16,3 @@ echo "Thank you!";
 <a>New stuff</a>
 
 <a>New stuff 2</a>
-<a>New stuff 3</a>
